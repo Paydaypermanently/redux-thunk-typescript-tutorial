@@ -1,4 +1,4 @@
-<h1>react-redux-typescript tutorial</h1>
+<h1>redux thunk typescript tutorial</h1>
 타입스크립트를 사용한 redux thunk 튜토리얼 코드입니다.
 
 
